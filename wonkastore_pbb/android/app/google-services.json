@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240299524331",
+    "project_id": "wonkastore-pa-83795",
+    "storage_bucket": "wonkastore-pa-83795.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240299524331:android:48107d6b2acf079991feae",
+        "android_client_info": {
+          "package_name": "com.example.wonkastore_pbb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhprrwzzXncsu6tNGMQ__1MrezTLTNnbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
